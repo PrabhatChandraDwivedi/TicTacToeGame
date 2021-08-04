@@ -33,6 +33,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -164,7 +165,21 @@
       <option name="project" value="LOCAL" />
       <updated>1628104604919</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Tic_Tac_Toe_App">
+      <created>1628106698921</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1628106698921</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Tic_Tac_Toe_App">
+      <created>1628107454493</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1628107454493</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -228,6 +243,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="349" y="167" key="AndroidCreateResourceFileDialog/0.0.1536.824@0.0.1536.824" timestamp="1627067126070" />
+    <state width="531" height="442" key="Diff.GoToChangePopup" timestamp="1628107523499">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="531" height="442" key="Diff.GoToChangePopup/0.0.1536.824@0.0.1536.824" timestamp="1628107523499" />
+    <state x="147" y="65" key="DiffContextDialog" timestamp="1628107533887">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="147" y="65" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1628107533887" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1628106320292">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -252,10 +275,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1628106543870" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1628105194216">
+    <state x="656" y="327" key="VCS.EditChangelistDialog" timestamp="1628107297407">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1628105194216" />
+    <state x="656" y="327" key="VCS.EditChangelistDialog/0.0.1536.824@0.0.1536.824" timestamp="1628107297407" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1628107540559">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1628107540559" />
     <state x="578" y="326" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1628105702856">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
